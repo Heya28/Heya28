@@ -1,6 +1,6 @@
 # Hiya Trehan
 
-Systems + compilers. I care about what happens between "the code compiles" and "the code is fast" — cache behavior, memory layout, IR transformations.
+Systems. I care about what happens between "the code compiles" and "the code is fast" — cache behavior, memory layout, IR transformations.
 
 ## Working on
 
