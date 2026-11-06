@@ -10,9 +10,9 @@
 
 ## About me
 
-Hi, I'm Hiya. I'm a B.Tech IT student at IGDTUW, Delhi (2024-2028).
+Hi, I am Hiya. I'm a B.Tech IT student at IGDTUW, Delhi (2024-2028).
 
-I got hooked on the gap between 'the code works' and 'the code is fast': cache behavior, memory, and everything that quietly makes programs slow. Right now I'm moving into **Systems for ML** and getting ready for a course on it. I'm still figuring a lot of it out, and that's the fun part.
+I got hooked on the gap between 'the code works' and 'the code is fast': cache behavior, memory, and everything that quietly makes programs slow. Right now I am moving into **Systems for ML** and getting ready for a course on it. I'm still figuring a lot of it out, and that's the fun part.
 
 ---
 
@@ -24,7 +24,7 @@ I wanted to see what caches actually do, so I built one. It simulates N-way set-
 `C++17` `Cache architecture` `Trace analysis`
 
 ### [Custom Unix Shell](https://github.com/Heya28/Custom-Unix-Shell-)
-Yes, I wrote my own shell. No, it won't replace zsh. It handles `fork` / `exec` / `wait`, pipelines, background jobs, process groups and `SIGINT` routing, and it reaps zombie processes properly with `WNOHANG`.
+Yes, I tried writing my own shell and no, it won't replace zsh. It handles `fork` / `exec` / `wait`, pipelines, background jobs, process groups and `SIGINT` routing, and it reaps zombie processes properly with `WNOHANG`.
 
 `C` `POSIX` `Signals`
 
@@ -51,31 +51,39 @@ Across 4 attacker and 5 victim models, MEF hit a **38.89% breach rate**, **9.7 p
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![Valgrind](https://img.shields.io/badge/Valgrind-5C2D91?style=for-the-badge&logoColor=white)
+![perf](https://img.shields.io/badge/perf-333333?style=for-the-badge&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-</div>
-
-Also: Valgrind, perf, NumPy, Matplotlib, SQL.
-
----
-
-## GitHub stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Heya28&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heya28&layout=compact&theme=tokyonight&hide_border=true" alt="languages" />
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
 </div>
 
 ---
 
+## Activity
+
 <div align="center">
 
-[LinkedIn](https://linkedin.com/in/hiya-trehan-2127a4317) · [Email](mailto:hiyatrehan@gmail.com) · [LeetCode](https://leetcode.com/u/Heya_28/)
+<img src="https://ghchart.rshah.org/2c5364/Heya28" alt="Heya28 contribution graph" width="90%" />
+
+</div>
+
+---
+
+## Let's connect
+
+Always happy to chat about systems, performance or ML infrastructure. I am also looking for internships in this space, so feel free to reach out.
+
+<div align="center">
+
+<a href="https://linkedin.com/in/hiya-trehan-2127a4317"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:hiyatrehan@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" alt="footer" />
 
